@@ -1,0 +1,27 @@
+body {
+  background-color: #e8e8e8;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+}
+
+hr {
+  border-style: dashed none none none;
+  border-color: #73859889;
+  border-width: 4px;
+  width: 97%;
+}
+
+h1 {
+  color: #393e46;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+h2 {
+  color: #393e46;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+h3 {
+  color: #393e46;
+  font-family: Verdana, Geneva, sans-serif;
+}
